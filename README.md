@@ -15,4 +15,5 @@ Following snapshots provide snapshots for statistics for month of June and Decem
 
 ### Summary
 The statistics provide reliable information about the weather variation between June and December considered to be peak extreme weather conditions.
-The information would help in making decision for investement in the icecream business proposal for the investor. A reasonable conclusion from the data analysis would be that seasonal temperature variation is mild in the proposed area and the ice cream business is expected to do well.
+The information would help in making decision for investement in the icecream business proposal for the investor. A reasonable conclusion from the data analysis would be that seasonal temperature variation is mild in the target area and the ice cream business is expected to do well. However, the analysis would be robust if the metric for rainfall is included in the consideration set. Since the available dataset includes precipitation data, additional queries for rainfall in June and December would round up the analysis. Only temperature consideration leaves out the risk of business slowdown due to heavy rains. Also since the data is already available in the dataset, no additional data gathering is needed. 
+The analysis would be more robust if both temperature and precipitation are considered for business viability year round.
